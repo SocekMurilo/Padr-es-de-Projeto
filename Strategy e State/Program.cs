@@ -11,7 +11,7 @@ public class Enemy
     public float Y { get; set; }
 }
 
-public abstract class state
+public abstract class State
 {
     protected Enemy enemy;
 

@@ -1,0 +1,26 @@
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.AssemblyInfo.cs
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\c# Avançado.exe
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\c# Avançado.deps.json
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\c# Avançado.runtimeconfig.json
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\c# Avançado.pdb
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\pamella.dll
+C:\Users\disrct\Desktop\c# Avançado\bin\Debug\net7.0-windows\Stately.dll
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.csproj.CopyComplete
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\refint\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.pdb
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\c# Avançado.genruntimeconfig.cache
+C:\Users\disrct\Desktop\c# Avançado\obj\Debug\net7.0-windows\ref\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.AssemblyInfo.cs
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\refint\c# Avançado.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\c# Avançado.pdb

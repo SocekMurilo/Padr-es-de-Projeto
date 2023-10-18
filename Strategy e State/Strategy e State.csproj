@@ -3,11 +3,13 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Strategy_e_State</RootNamespace>
+    <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="pamella" Version="1.7.0" />
+    <PackageReference Include="Pamella" Version="1.7.0" />
   </ItemGroup>
 
 </Project>

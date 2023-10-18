@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "c# Avançado/1.0.0": {
+      "Strategy e State/1.0.0": {
         "dependencies": {
           "pamella": "1.7.0"
         },
         "runtime": {
-          "c# Avançado.dll": {}
+          "Strategy e State.dll": {}
         }
       },
       "pamella/1.7.0": {
@@ -36,7 +36,7 @@
     }
   },
   "libraries": {
-    "c# Avançado/1.0.0": {
+    "Strategy e State/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

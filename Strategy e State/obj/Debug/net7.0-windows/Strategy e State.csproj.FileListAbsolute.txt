@@ -1,0 +1,18 @@
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.AssemblyInfo.cs
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Strategy e State.exe
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Strategy e State.deps.json
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Strategy e State.runtimeconfig.json
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Strategy e State.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Strategy e State.pdb
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\pamella.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\bin\Debug\net7.0-windows\Stately.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.csproj.CopyComplete
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\refint\Strategy e State.dll
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.pdb
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\Strategy e State.genruntimeconfig.cache
+C:\Users\disrct\Desktop\c# Avançado\Strategy e State\obj\Debug\net7.0-windows\ref\Strategy e State.dll

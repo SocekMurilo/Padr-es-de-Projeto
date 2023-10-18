@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\c# Avançado.csproj": {}
+    "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\Strategy e State.csproj": {}
   },
   "projects": {
-    "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\c# Avançado.csproj": {
+    "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\Strategy e State.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\c# Avançado.csproj",
-        "projectName": "c# Avançado",
-        "projectPath": "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\c# Avançado.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\Strategy e State.csproj",
+        "projectName": "Strategy e State",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\Strategy e State.csproj",
         "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\disrct\\Desktop\\c# Avançado\\Strategy e State\\obj\\",
         "projectStyle": "PackageReference",
@@ -38,7 +38,7 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "dependencies": {
-            "pamella": {
+            "Pamella": {
               "target": "Package",
               "version": "[1.7.0, )"
             }
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
         }
       }
     }

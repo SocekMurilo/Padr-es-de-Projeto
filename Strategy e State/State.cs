@@ -35,7 +35,7 @@ public class RotateState : State
     {
         var dTheta = AngleTarget - enemy.Angle;
 
-        if (dTheta < 0.05)
+        if (MathF.Abs(dTheta) < 0.05)
         {
             this.enemy.State = NextState;
             return;

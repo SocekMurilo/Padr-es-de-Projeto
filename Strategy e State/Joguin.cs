@@ -39,11 +39,11 @@ public class Joguin : View
     }
     protected override void OnRender(IGraphics g)
     {
-        g.Clear(Color.SaddleBrown);
+        g.Clear(Color.DarkGreen);
 
         g.FillRectangle(
             enemy1.X - 15, enemy1.Y - 15,
-            30, 30, Brushes.Red
+            30, 30, Brushes.Blue
         );
 
         var cos = MathF.Cos(enemy1.Angle);
@@ -58,7 +58,7 @@ public class Joguin : View
                 new PointF(
                     enemy1.X + 250 * cos + 50 * sin,
                     enemy1.Y + 250 * sin - 50 * cos),
-            }, Brushes.SandyBrown
+            }, Brushes.Yellow
         );
     }
 }
